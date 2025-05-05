@@ -1,0 +1,27 @@
+.form{
+    background-color: rgb(183, 254, 254);
+    border: 2px solid black;
+    margin-left:50%;
+    width:400px;
+    padding: 10px 200px;
+    border-radius: 15px;
+    font-family:  Helvetica, sans-serif;
+    color:brown;
+}
+.form:hover{
+    box-shadow:2px 2px 5px black;
+}
+button{
+    background-color: rgb(216, 30, 37);
+    
+}
+button:hover{
+    background-color: green;
+}
+.gender{
+    width:
+}
+.gender:hover{
+    box-shadow: 2px 2px 2px black;
+
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type = "text/xsl" href = "student.xsl"?>
+<class>
+  <student rollno="141">
+    <firstname>ABHISHEK</firstname>
+    <lastname>DEVKATTE</lastname>
+    <nickname>PRASHANT</nickname>
+    <marks>35</marks>
+  </student>
+  <student rollno="145">
+    <firstname>mahadev</firstname>
+    <lastname>patil</lastname>
+    <nickname>mahadev</nickname>
+    <marks>80</marks>
+  </student>
+  <student rollno="146">
+    <firstname>RANJIT</firstname>
+    <lastname>DHAPATE</lastname>
+    <nickname>VISHWAS</nickname>
+    <marks>90</marks>
+  </student>
+</class>

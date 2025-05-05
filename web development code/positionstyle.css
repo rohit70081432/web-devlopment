@@ -1,0 +1,21 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color:aqua;
+    border: 2px solid black;
+    margin: 2px;
+    display:inline-block;
+}
+    
+/* #relative{
+    position:relative;
+    top:100px;
+    left:100px;
+} */
+#static{
+    background-color: blueviolet;
+    position:fixed;
+    top:400px;
+    left:400px;
+
+}

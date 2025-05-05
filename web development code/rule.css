@@ -1,0 +1,20 @@
+bookstore { 
+	color:white; 
+	background-color : pink; 
+	width: 80%;
+        margin:20px;
+ 
+        border:2px black solid;
+} 
+heading { 
+	font-color: green; 
+	font-size : 60px; 
+	background-color : powderblue; 
+} 
+book1,book2,book3,book4 { 
+	display : list-item; 
+} 
+title { 
+	font-size : 25px; 
+	font-weight : bold; 
+} 

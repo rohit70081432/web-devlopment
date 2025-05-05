@@ -1,0 +1,36 @@
+.container{
+    height: 500px;
+    width:80%;
+    border:2px solid black;
+    display:flex;
+    /* flex-direction: column-reverse; */
+     flex-direction: row;
+     justify-content: flex-start;
+    margin: 10px auto; 
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+    
+
+}
+h1{
+    text-align: center;;
+}
+.container div{
+    height:50px;
+    width:300px;
+    color:white;
+    text-align: center;
+    font-size: 1.5em;
+
+
+}
+.container div.green{
+    flex:2  100px;
+}
+.container div.blue{
+    flex:2 ;
+    flex:100px;
+}

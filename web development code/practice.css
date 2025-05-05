@@ -1,0 +1,17 @@
+library{
+display: grid;
+justify-content: center;
+}
+book{
+    display: grid;
+    box-shadow: 2px 2px 3px black;
+
+
+border:black solid 1px;
+margin:10px;
+padding: 5px;
+background-color:yellow;
+}
+book :hover{
+    box-shadow: 3px 3px 8px black;
+}

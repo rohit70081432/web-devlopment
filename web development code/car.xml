@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carShowroom>
+    <showroomInfo>
+        <name>Elite Auto Gallery</name>
+        <location>
+            <address>123 Main Street</address>
+            <city>New York</city>
+            <state>NY</state>
+            <zip>10001</zip>
+        </location>
+        <contact>+1-555-123-4567</contact>
+    </showroomInfo>
+
+    <cars>
+        <car id="C001">
+            <brand>Toyota</brand>
+            <model>Camry</model>
+            <year>2023</year>
+            <price currency="USD">28000</price>
+            <fuel>Petrol</fuel>
+            <available>true</available>
+        </car>
+        <car id="C002">
+            <brand>Honda</brand>
+            <model>Accord</model>
+            <year>2022</year>
+            <price currency="USD">27000</price>
+            <fuel>Hybrid</fuel>
+            <available>true</available>
+        </car>
+        <car id="C003">
+            <brand>Tesla</brand>
+            <model>Model 3</model>
+            <year>2024</year>
+            <price currency="USD">45000</price>
+            <fuel>Electric</fuel>
+            <available>false</available>
+        </car>
+    </cars>
+</carShowroom>

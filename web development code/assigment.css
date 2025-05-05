@@ -1,0 +1,20 @@
+.container{
+    height: 20px;
+    width:100%;
+    background-color: pink;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    
+
+}
+    
+    
+
+.container div{
+   height: 20px;
+   width: 100px;
+   margin-left: 10px;
+
+    
+}

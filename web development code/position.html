@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="positionstyle.css">
+</head>
+<body>
+    <section>
+        <h2>relative motion</h2>
+    <div id="relative"></div>
+    <div ></div>
+    
+    
+        <h1>absolute motion</h1>
+        <div id="relative"></div>
+        <div id="static"></div>
+        <div></div>
+    </section>
+    <p>1. What are the advantages of using the Raspberry Pi Pico W for an obstacle-avoiding robot compared to the standard Raspberry Pi Pico?
+        Answer:
+        The Raspberry Pi Pico W offers several advantages for an obstacle-avoiding robot:
+        •	Wireless Connectivity: The Pico W includes Wi-Fi, which allows for remote control or monitoring of the robot, as well as potential updates or data logging without needing a physical connection.
+        •	Network Integration: It can be integrated into a network, enabling features like real-time data streaming or integration with other networked devices.
+        •	Enhanced Flexibility: The Pico W can leverage online resources or cloud services for advanced functionalities, such as remote diagnostics or updates.
+        2. How would you utilize the Wi-Fi capabilities of the Raspberry Pi Pico W in your obstacle-avoiding robot project?
+        Answer:
+        Wi-Fi capabilities can be utilized in several ways:
+        •	Remote Monitoring: Send sensor data to a remote server or cloud service for monitoring and analysis.
+        •	Remote Control: Allow users to control the robot or adjust parameters via a web interface or mobile app.
+        •	Data Logging: Continuously log data from the robot’s sensors to a cloud database for further analysis or troubleshooting.
+        •	Firmware Updates: Implement over-the-air (OTA) updates to improve or modify the robot’s software without needing physical access.
+        3. Can you describe the process of integrating an ultrasonic sensor with the Raspberry Pi Pico W for obstacle detection?
+        Answer:
+        The integration process involves the following steps:
+        1.	Wiring: Connect the ultrasonic sensor’s VCC and GND pins to the Pico W’s 3.3V and ground pins. Connect the Trigger and Echo pins to GPIO pins on the Pico W.
+        2.	Code Setup: Use the machine library to configure the GPIO pins. Implement a function to send a pulse from the Trigger pin and measure the pulse duration on the Echo pin.
+        3.	Distance Calculation: Calculate the distance to an obstacle using the time it takes for the echo to return, applying the formula: distance = (duration * speed of sound) / 2.
+        4.	Obstacle Avoidance: Use the distance measurements to decide movement commands and steer the robot to avoid obstacles.
+        
+        
+        4. What software libraries or tools would you use to program the Raspberry </p>
+    
+</body>
+</html>

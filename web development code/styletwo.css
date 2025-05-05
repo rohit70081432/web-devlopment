@@ -1,0 +1,77 @@
+/* h1{
+    color:red;
+
+}
+*{
+    
+    background-color: aquamarine;
+}
+#login{
+    color:yellow;
+    background-color: red;
+}
+#signup{
+    color:yellow;
+    background-color: red;
+}
+.a{
+    color:gray;
+    background-color: darkgreen;
+}
+p+h3{
+    text-decoration: black underline;
+
+}
+p>a{
+    text-decoration: none;
+    color:darkgoldenrod;
+}
+nav li a{
+    color:darkmagenta;
+    text-decoration: none;
+}
+input[type=text]{
+    color:hotpink;
+    background-color: rgba(34, 242, 117, 0.926);
+}
+input[type=password]{
+    color:hotpink;
+    background-color: rgba(34, 242, 117, 0.926);
+}
+.a:hover{
+    background-color: yellow;
+}
+.a:active{
+    background-color: hotpink;
+
+}
+input[type="radio"]:checked+label{
+    color: red;
+    font-weight: bold;
+}
+.number>ul>li:nth-of-type(3){
+    color:rgb(241, 58, 26);
+}
+h3::first-letter{
+    color: yellow;
+
+}
+p::selection{
+    background-color:rgb(247, 66, 11);
+} */
+ h3{
+    color: red !important;
+ }
+ h3{
+    color: yellow ;
+ }
+ div{
+    background-color: blue;
+ }
+ li{
+    background-color: green;
+ }
+ input{
+    color:black
+ }
+ 

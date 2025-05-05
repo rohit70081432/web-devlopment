@@ -1,0 +1,18 @@
+*{
+    font-family: 'Courier New';
+
+}
+h1{
+    color:#1b74e4;
+
+}
+#searchbtn{
+    color:aliceblue;
+    background-color: black;
+}
+.userbtn{
+    background-color: aqua;
+}
+#myid{
+    color:rgb(19, 97, 19);
+}

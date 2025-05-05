@@ -1,0 +1,17 @@
+.box{
+    height:200px;
+    width:100%;
+    background-color: pink;
+    border: 2px solid black;
+    animation: widthAnimation 4s linear 0s infinite normal ;
+    color:cornflowerblue;
+    font-size: 50px;
+
+
+}
+@media(orientation:landscape){
+    .box{
+        background-color: brown;
+        
+    }
+}

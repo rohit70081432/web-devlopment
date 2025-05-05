@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="practice.css"?>
+<library>
+<book id="001">
+<title>computer networking</title>
+<author>shobha patil</author>
+<year>2024</year>
+<price>100</price>
+</book>
+<book id="002">
+<title>district mathematics</title>
+<author>ketaki</author>
+<year>2014</year>
+<price>200</price>
+</book>
+<book id="003">
+<title>physics</title>
+<author>whnmore</author>
+<year>2020</year>
+<price>300</price>
+</book>
+<book id="003">
+<title>chemistry</title>
+<author>gaikwad</author>
+<year>2023</year>
+<price>400</price>
+</book>
+</library>
+
+

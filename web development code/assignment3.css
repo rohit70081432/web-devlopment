@@ -1,0 +1,17 @@
+.container{
+    height: 1500px;;
+    width:100%;
+    background-color: rgba(243, 216, 221, 0.923);
+    border: 2px solid black;
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-rows: ;
+    grid-gap:4px;
+    
+}
+div{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    border:2px solid black;
+}
